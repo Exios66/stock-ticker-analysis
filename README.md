@@ -1,6 +1,13 @@
 # Stock Market Forecasting with GRU and LSTM Networks
 
-![Project Banner][] *(Replace with your project banner image)*
+       __  __                              _             
+      |  \/  | ___  _ __ _ __ _____      _| |_ ___  _ __  
+      | |\/| |/ _ \| '__| '__/ _ \ \ /\ / / __/ _ \| '_ \ 
+      | |  | | (_) | |  | | | (_) \ V  V /| || (_) | | | |
+      |_|  |_|\___/|_|  |_|  \___/ \_/\_/  \__\___/|_| |_|
+
+                 M O R N I N G S T A R  
+                  D E V E L O P M E N T S
 
 Welcome to the **Stock Market Forecasting** project repository! This project utilizes **Gated Recurrent Units (GRUs)** and **Long Short-Term Memory (LSTM)** networks to predict stock prices. It demonstrates proficiency in deep learning applications for financial data, handling multi-step forecasting, and processing multiple stock datasets simultaneously.
 
